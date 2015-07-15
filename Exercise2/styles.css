@@ -1,0 +1,19 @@
+.leftCol{
+    height: 100%;
+    background-color:#f0ad4e;
+}
+
+.topRightCol{
+    height:33%;
+    background-color:#d9534f;
+    margin:0 0 12px 0;
+}
+
+.bottomRightCol{
+    height:66%;
+    background-color:#3498db;
+}
+
+.container{
+    margin:10px;
+}
