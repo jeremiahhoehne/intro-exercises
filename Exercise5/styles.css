@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Mario", serif;
+    src: url("/fonts/SuperMario256.woff") format('truetype');
+}
+
+.mario{
+    font-family: "Mario";
+}
+
+.yellow-bg{
+    background-color:#ffda09;
+}
+
+.red-bg{
+    background-color: #eb1f22;
+}
+
+.red{
+    color:#eb1f22;
+}
+
+.center-text{
+    text-align: center;
+    
+}
+
+.contained-img{
+    max-width: 100%;
+}
+
+.bold-text{
+    font-weight: 700;
+}
