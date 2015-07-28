@@ -1,6 +1,12 @@
 @font-face {
-    font-family: "Mario", serif;
-    src: url("/fonts/SuperMario256.woff") format('truetype');
+    font-family: 'Mario';
+    src: url('/fonts/SuperMario256.eot');
+    src: url('/fonts/SuperMario256.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/SuperMario256.woff') format('woff'),
+         url('/fonts/SuperMario256.ttf') format('truetype'),
+         url('/fonts/SuperMario256.svg#SuperMario256') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 .mario{
